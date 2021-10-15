@@ -1,2 +1,2 @@
-# My-portfolio-project
-It contains a Data Analysis project
+# Data Analysis and Visualizations
+It contains Data Analysis project
